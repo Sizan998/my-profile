@@ -2,7 +2,10 @@
   <link rel="stylesheet" href="style.css">
 </head>
 h2 {
-  color: black;
+  color: rgb(10,10,10);
+  background-color: #DFDDDF;
 	font-size: 20px;
+	line-height: 1,8;
+	letter-spacing: 1px;
 	font-family: Helvetica;
 }
